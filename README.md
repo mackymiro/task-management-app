@@ -4,8 +4,7 @@ I deployed the app in my live server
 you can test directly in this link. I cant provide the credential access since this is my server.
 <br>
 <br>
-[go]([http://stackoverflow.com](https://projects.cebucodesolutions.com/task-management-app/)){:target="_blank"}
-
+https://projects.cebucodesolutions.com/task-management-app/
 
 Steps
 1. Clone the repository
