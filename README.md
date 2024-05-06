@@ -15,10 +15,11 @@ Run this for the storage link in files
 php artisan storage:link 
 
 For the automatically remove in 30 days. I just create a commands purgesoftdeletes.php file. I did not use CRON jobs for this
-run this script 
+<br>
 Run this script manually. 
 <br>
 php artisan purge:softdeletes
+<br>
 e.g.
 ![image](https://github.com/mackymiro/task-management-app/assets/16445177/71c979b0-338b-42bc-b81a-75a8fb990ed5)
 
