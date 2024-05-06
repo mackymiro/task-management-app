@@ -11,6 +11,7 @@ Steps
 5. php artisan serve
 
 Run this for the storage link in files
+<br>
 php artisan storage:link 
 
 For the automatically remove in 30 days. I just create a commands purgesoftdeletes.php file manually. I did not use CRON jobs for this
